@@ -1,0 +1,17 @@
+.form_box {
+  width: 400px;
+  margin: auto;
+  margin-top: 100px;
+  padding-bottom: 50px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.form_box1 {
+  color: red;
+}
+
+.form_box h4 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 80px;
+}

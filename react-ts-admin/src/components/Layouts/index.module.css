@@ -1,0 +1,11 @@
+.headerBox{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.headerBox h4{
+    color: #fff;
+    font-size: 20px;
+}
